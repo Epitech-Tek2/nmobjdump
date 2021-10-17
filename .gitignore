@@ -1,0 +1,7 @@
+my_objdump
+*.o
+./my_nm
+a.out
+*.gcda
+*.gcno
+unit_tests
